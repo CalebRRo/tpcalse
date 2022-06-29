@@ -8,3 +8,15 @@ header a {
 .header__vertical{
     margin-left: 30px;
 }
+.header__horizontal{
+text-align: right;
+}
+.header__horizontal--menu{
+    background-color: rgba(255, 255, 255, 0.5);
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-top: 20px;
+}
+.header__horizontal--menu ul li{
+display: inline;
+}
